@@ -1,2 +1,1 @@
 # Hotel
-cc-ie2
